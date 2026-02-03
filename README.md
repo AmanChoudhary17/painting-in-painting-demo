@@ -1,3 +1,8 @@
+## Output Visualization
+
+![Result](results/output.png)
+
+
 # Painting in a Painting – Beginner Computer Vision Demo
 
 This repository contains a small proof-of-concept project inspired by the
